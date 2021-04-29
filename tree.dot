@@ -65,7 +65,7 @@ node [shape=box] ;
 30 -> 31 ;
 32 [label="mse = 0.531\nsamples = 7\nvalue = 12.571"] ;
 30 -> 32 ;
-33 [label="X[2] <= 18.5\nmse = 0.245\nsamples = 7\nvalue = 13.571"] ;
+33 [label="X[7] <= 0.5\nmse = 0.245\nsamples = 7\nvalue = 13.571"] ;
 29 -> 33 ;
 34 [label="mse = 0.16\nsamples = 5\nvalue = 13.8"] ;
 33 -> 34 ;
